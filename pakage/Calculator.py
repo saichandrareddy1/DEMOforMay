@@ -15,3 +15,6 @@ class Calci:
 
     def subraction(self):
         return self.a - self.b
+
+    def multiplication(self):
+        return self.a * self.b
