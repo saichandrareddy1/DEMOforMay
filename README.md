@@ -8,8 +8,8 @@
 
     >>> from pakage import Calculator as cl
     >>> cal =  cl.calci(a=10 b=20)
-    >>> cal.addition()
-    >>> cal.subraction()
+    >>> cal.addition() #this is addition 
+    >>> cal.subraction() #this is subraction
 
 ```
 
